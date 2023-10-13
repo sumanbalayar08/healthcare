@@ -36,3 +36,19 @@ export const why=[
 
     }
 ]
+
+    export const EAP=[
+        {
+            title:"Identify environmental stressors"
+        },
+        {
+            title:"Mitigate workplace stress"
+        },
+        {
+            title:"Encourage meaningful communication"
+        },
+        {
+            title:"Increase awareness of mindful engagement"
+        },
+
+    ]

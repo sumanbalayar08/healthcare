@@ -5,15 +5,14 @@ import { BrowserRouter,Route,Routes } from 'react-router-dom'
 import About from './Screens/About'
 import Contact from './Screens/Contact'
 import Home from './Screens/Home'
+import Footer from './Components/Footer'
 
 const App = () => {
   return (
     <BrowserRouter>
     <Navbar/>
-    <Routes>
-      <Route path='/' element={<Home/>}/>
-    </Routes>
-    
+  <Home/>
+    <Footer/>
     </BrowserRouter>
   )
 }
