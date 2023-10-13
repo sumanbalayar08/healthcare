@@ -8,10 +8,6 @@ Basic HealthCare Blog Design
 2. [Screenshots](#screenshots)
 3. [Demo](#demo)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Technologies Used](#technologies-used)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
